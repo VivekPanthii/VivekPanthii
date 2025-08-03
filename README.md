@@ -10,9 +10,9 @@
 
 🔧 **About Me**
 
-I'm a computer engineering graduate who's recently discovered a deep interest in the world of **Data Engineering**. While I started my journey with **Frontend Development** and even worked on UI designs using **Figma**, I found my true calling working with data — thanks to college courses like **DBMS**, **Data Mining**, and **Data Warehousing**.
+I'm a computer engineering graduate who's recently discovered a deep interest in the world of **Data Engineering**. While I started my journey with **Frontend Development** and even worked on UI designs using **Figma**, I found my true calling working with data thanks to college courses like **DBMS**, **Data Mining**, and **Data Warehousing**.
 
-I enjoy solving data-related problems with **SQL**, and I’ve always loved the logic and pattern-finding challenges in **regular expressions**. Unlike traditional software engineering, I find data engineering to be the perfect balance between creativity and engineering — **less raw coding, but more powerful tools and logic**.
+I enjoy solving data-related problems with **SQL**, and I’ve always loved the logic and pattern-finding challenges in **regular expressions**. Unlike traditional software engineering, I find data engineering to be the perfect balance between creativity and engineering **less raw coding, but more powerful tools and logic**.
 
 ---
 
@@ -27,7 +27,7 @@ I enjoy solving data-related problems with **SQL**, and I’ve always loved the 
 🎨 **Beyond Tech**
 
 - I’ve been into **art and sketching** since I was a kid, and I still love to create visual work whenever I can.
-- Passionate about **UI/UX design** — it’s something I may return to as the market evolves.
+- Passionate about **UI/UX design** - it’s something I may return to as the market evolves.
 - I play **guitar** and enjoy exploring new musical instruments.
 - Naturally curious and always learning, though I’m more of an introvert who prefers deep, focused work over small talk.
 
