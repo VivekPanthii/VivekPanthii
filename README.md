@@ -18,9 +18,9 @@ I've always like the logic and pattern-finding challenges of Relational Algebra,
 
 **🚀Now I'm Learning** 
 
-Constructing ETL pipelines with Airflow, PostgreSQL, Pandas, and Python
-Workflow orchestration and data management using contemporary tools such as **dbt**, **Snowflake**, and **AWS**
-Best practices for data CI/CD, version control, and data modeling
+- Building ETL pipelines using Python, Pandas, PostgreSQL, and Airflow
+- Orchestrating workflows and managing data with modern tools like **dbt**, **Snowflake**, and **AWS**
+- Best practices in data modeling, version control, and CI/CD for data
 
 ---
 
