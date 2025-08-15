@@ -10,26 +10,26 @@
 
 🔧 **About Me**
 
-I'm a computer engineering graduate who's recently discovered a deep interest in the world of **Data Engineering**. While I started my journey with **Frontend Development** and even worked on UI designs using **Figma**, I found my true calling working with data thanks to college courses like **DBMS**, **Data Mining**, and **Data Warehousing**.
+I just developed a strong interest in the field of data engineering after graduating with a degree in computer engineering. College classes like **DBMS**, **Data Mining**, and **Data Warehousing** helped me discover my true purpose in working with data, even though I began my career with Frontend Development and even worked on UI designs using Figma.
 
-I enjoy solving data-related problems with **SQL**, and I’ve always loved the logic and pattern-finding challenges in **regular expressions**. Unlike traditional software engineering, I find data engineering to be the perfect balance between creativity and engineering **less raw coding, but more powerful tools and logic**.
-
----
-
-🚀 **What I’m Learning Now**
-
-- Building ETL pipelines using Python, Pandas, PostgreSQL, and Airflow
-- Orchestrating workflows and managing data with modern tools like **dbt**, **Snowflake**, and **AWS**
-- Best practices in data modeling, version control, and CI/CD for data
+I've always like the logic and pattern-finding challenges of Relational Algebra, and I like using SQL to solve data-related problems. I think data engineering strikes the ideal balance between creativity and engineering—less raw coding, but more potent tools and logic—in contrast to traditional software engineering.
 
 ---
 
-🎨 **Beyond Tech**
+**🚀Now I'm Learning** 
 
-- I’ve been into **art and sketching** since I was a kid, and I still love to create visual work whenever I can.
-- Passionate about **UI/UX design** - it’s something I may return to as the market evolves.
-- I play **guitar** and enjoy exploring new musical instruments.
-- Naturally curious and always learning, though I’m more of an introvert who prefers deep, focused work over small talk.
+Constructing ETL pipelines with Airflow, PostgreSQL, Pandas, and Python
+Workflow orchestration and data management using contemporary tools such as **dbt**, **Snowflake**, and **AWS**
+Best practices for data CI/CD, version control, and data modeling
+
+---
+
+**🎨Beyond Tech**
+
+Since I was a little child, I have been interested in **art and sketching**, and I still like making visual art whenever I can.
+I'm passionate about **UI/UX design** and might go back to it as the market changes.
+I like to experiment with different musical instruments and play the **guitar**.
+Although I'm more of an introvert and value in-depth, concentrated work over light talk, I'm naturally curious and continually learning.
 
 
 ---
