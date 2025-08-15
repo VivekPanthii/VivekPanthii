@@ -12,7 +12,7 @@
 
 I just developed a strong interest in the field of data engineering after graduating with a degree in computer engineering. College classes like **DBMS**, **Data Mining**, and **Data Warehousing** helped me discover my true purpose in working with data, even though I began my career with Frontend Development and even worked on UI designs using Figma.
 
-I've always like the logic and pattern-finding challenges of Relational Algebra, and I like using SQL to solve data-related problems. I think data engineering strikes the ideal balance between creativity and engineering—less raw coding, but more potent tools and logic—in contrast to traditional software engineering.
+I've always like the logic and pattern-finding challenges of Relational Algebra, and I like using SQL to solve data-related problems. I think data engineering strikes the ideal balance between creativity and engineering less raw coding, but more potent tools and logic in contrast to traditional software engineering.
 
 ---
 
